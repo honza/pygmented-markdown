@@ -7,6 +7,14 @@ your markdown text as any other script, but it will parse your code with
 
 ### Usage
 
+In your markdown document, you need to add a string to the top of your code
+that says what language your code is in:
+
+    python
+    from datetime import datetime
+
+Easy! And then, you convert it to HTML:
+
     markdown.py yourfile
 
 This will print the result to standard output. You can, of course, use this in
