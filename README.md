@@ -34,6 +34,9 @@ This script requires ony Pygments to be installed.
 I need to give credit where credit is due. This script is a modified version of
 Trent Mick's amazing [markdown2][markdown2] script.
 
+### License
+
+Licensed under the terms of the 2-clause BSD license.
 
 [pygments]: http://pygments.org/
 [markdown2]: http://code.google.com/p/python-markdown2/
